@@ -7,4 +7,5 @@ div{
 	font-family: Arial, sans-serif;
 	font-size: 28px;
 	font-weight: bold;
+	border: 3px dotted blue;
 }
